@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "982101680729",
+    "project_id": "emindsapp",
+    "storage_bucket": "emindsapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982101680729:android:b11544865033dbee77c748",
+        "android_client_info": {
+          "package_name": "com.example.eminds_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "982101680729-javnfabo634488qb26iut6iqdonmlnpe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcnR86BI19018SGLnH0grNGcHi_8XeLNE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "982101680729-javnfabo634488qb26iut6iqdonmlnpe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
